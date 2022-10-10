@@ -1,13 +1,13 @@
 #title in header
-title: "Hi Folks."
+title: "Littlelamb's Blog"
 
 #main info
 #owner
-owner: "I am Adi Sakti Jrs"
-email: test@test.test
-info: "A student and web developer from Indonesia 🇮🇩"
+owner: "I am HanlinXu"
+email: hanlinxu2002@gmail.com
+info: "A student major in Biomedical Science at Shanghai Jiao Tong Unversity"
 #description
-desc: "This is Minima, an undoubtedly simple and lightweight dark/light mode theme for Hexo. I created this from scratch using Skeleton CSS boilerplate. It only uses CSS and Vanilla JS, without using unnecessary third-party 'render-blocking' libraries! 😁"
+desc: "Keep thinking and keep learning"
 
 #menu
 menu:
@@ -29,12 +29,8 @@ usercss: css/user.css
 # social profile at the footer/bottom
 footer: true
 placename: Earth
-placelink: https://en.wikipedia.org/wiki/Earth
-github: https://github.com/adisaktijrs
-linkedin: https://linkedin.com/in/adisaktijrs
-twitter: https://twitter.com/adisaktijrs
-instagram: https://instagram.com/adisaktijrs
-stackoverflow: https://stackoverflow.com/story/tobiasreithmeier
+github: https://github.com/thelittlelamb
+Zhihu: https://www.zhihu.com/people/xiao-xu-xiao-xu-qi-bu-lai-chuang-32
 
 # Misc
 nanobar: /js/nanobar.min.js
@@ -45,13 +41,10 @@ switch_dark: 🌑
 picjs: /js/pic.min.js
 
 # favicon
-favicon: /images/favicon.png
+favicon: /images/cat.png
 # thumbnail
 thumbnail: /images/thumbnail.jpg
 
 article:
   thumbnail: true
 
-# DISQUS comments (sign up to Disqus to get disqus_shortname)
-disqus_enabled: false
-disqus_shortname: https-adisaktijrs-github-io
